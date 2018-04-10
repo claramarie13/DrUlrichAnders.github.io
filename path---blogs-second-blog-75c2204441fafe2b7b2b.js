@@ -1,2 +1,0 @@
-webpackJsonp([0x6629d902b61b],{369:function(t,o){t.exports={data:{markdownRemark:{html:"<p>This is the second blog.</p>",frontmatter:{title:"Second Blog",author:"Dr. Ulrich Anders",date:"April 08, 2018"}}},pathContext:{slug:"/blogs/second-blog/"}}}});
-//# sourceMappingURL=path---blogs-second-blog-75c2204441fafe2b7b2b.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x7ce6c455ee4b],{364:function(e,o){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"d:/my/myCBS/myCourses/09 Websites/DNE1/src/pages/blogs/welcome.md absPath of file >>> MarkdownRemark",frontmatter:{title:"Welcome",author:"Dr. Ulrich Anders",date:"April 08, 2018"},fields:{slug:"/blogs/welcome/"},excerpt:"Welcome to this blog. I hope you will read blog posts and contribute yourself."}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---blogs-9523079078a3d1c012bd.js.map

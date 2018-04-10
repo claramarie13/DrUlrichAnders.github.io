@@ -1,0 +1,2 @@
+webpackJsonp([0x6b2dca4ea554],{366:function(e,t){e.exports={data:{markdownRemark:{html:"<p>In our first lesson we learned how to set up a website.</p>",frontmatter:{title:"First Lesson",author:"Helen Cramer",date:"April 10, 2018"}}},pathContext:{slug:"/blogs/first-lesson/"}}}});
+//# sourceMappingURL=path---blogs-first-lesson-2f4045ab60935e96678d.js.map
