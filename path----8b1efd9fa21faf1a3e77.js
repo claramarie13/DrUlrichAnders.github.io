@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{104:function(t,a){t.exports={data:{site:{siteMetadata:{version:"1.1.0",date:"April 14, 2018"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----8b1efd9fa21faf1a3e77.js.map
