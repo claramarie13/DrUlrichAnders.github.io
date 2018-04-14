@@ -1,2 +1,0 @@
-webpackJsonp([0xb55b08d3d484],{363:function(o,t){o.exports={data:{markdownRemark:{html:"<p>Welcome to this blog. I hope you will read blog posts and contribute yourself.</p>",frontmatter:{title:"Welcome",author:"Dr. Ulrich Anders",date:"April 08, 2018"}}},pathContext:{slug:"/blogs/welcome/"}}}});
-//# sourceMappingURL=path---blogs-welcome-d15c74abd7f03d6d5acb.js.map

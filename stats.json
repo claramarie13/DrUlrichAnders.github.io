@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-445daeaa5624eb7e3690.js",
-      "component---src-pages-index-js-445daeaa5624eb7e3690.js.map"
+      "component---src-pages-index-js-745ef137a8fc37050836.js",
+      "component---src-pages-index-js-745ef137a8fc37050836.js.map"
     ],
     "component---src-pages-imprint-js": [
       "component---src-pages-imprint-js-de0761a77e555e6d1d67.js",
@@ -61,9 +61,9 @@
       "path---blogs-on-data-security-2e61becf2614095183ed.js.map"
     ],
     "app": [
-      "app-0c7334f48efdd5492276.js",
+      "app-f6c16d0ece2383abe4b6.js",
       "build-js-styles.css",
-      "app-0c7334f48efdd5492276.js.map",
+      "app-f6c16d0ece2383abe4b6.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-blogs-js": [
